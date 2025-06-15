@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - img "로고"
+  - link "법무법인 로아":
+    - /url: /
+  - button "주요사례"
+  - button "업무영역"
+  - button "구성원"
+  - button "유튜브"
+  - link "문의하기":
+    - /url: /contact
+- navigation:
+  - img "로고"
+  - link "법무법인 로아":
+    - /url: /
+  - button "주요사례"
+  - button "업무영역"
+  - button "구성원"
+  - button "유튜브"
+  - link "문의하기":
+    - /url: /contact
+- main:
+  - heading "“사건이 아니라 사람을 변호합니다.”" [level=1]
+  - paragraph: 전직 판사 출신 변호사와 전문팀의 맞춤형 전략 결과로 증명하는 법무법인 로아.
+  - heading [level=2]
+  - paragraph
+  - heading [level=2]
+  - paragraph
+  - heading [level=2]
+  - paragraph
+  - heading [level=2]
+  - paragraph
+  - heading "SK 유심 유출 소송 안내" [level=3]
+  - button:
+    - img
+  - paragraph: SK 유심 유출 사고 피해자분들을 위한 소송 제기 서비스를 시작했습니다. 피해자분들의 권리 회복을 위해 최선을 다하겠습니다.
+  - button "소송 제기하기"
+  - button "나중에 하기"
+  - button "닫기":
+    - img
+  - heading [level=2]
+  - paragraph
+  - button "소송안내"
+  - button "소송진행하기"
+  - checkbox "오늘 하루 열지 않기"
+  - text: 오늘 하루 열지 않기
+  - heading "주소" [level=3]
+  - paragraph
+  - paragraph
+  - paragraph
+  - heading "연락처" [level=3]
+  - paragraph: "Tel:"
+  - paragraph: "Email:"
+  - paragraph
+  - link "관리자 페이지":
+    - /url: /admin
+- alert
+```
